@@ -17,7 +17,7 @@ This organization currently hosts **personal and open‑source projects** by
 
 ## 🧠 Flagship Project
 
-### ChatCue AI – AI WhatsApp‑to‑Tasks Copilot
+### ChatCue AI – WhatsApp‑to‑Tasks Copilot
 
 **ChatCue AI** is a personal productivity tool that helps engineers stop losing
 work inside WhatsApp chats.
